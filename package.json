@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  },
+  "name": "complete---copy",
+  "version": "1.0.0",
+  "main": "face-api.min.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

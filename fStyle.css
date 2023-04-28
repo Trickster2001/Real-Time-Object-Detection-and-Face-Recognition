@@ -1,0 +1,98 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body {
+    padding: 0;
+    margin: 0; 
+    /* margin-top: 70px; */
+    width: 100vw;
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+main video{
+    margin-top: 45px;
+}
+
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.foot a{
+    margin-top: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+/* #webcamButton{
+    margin-top: 10px;
+    text-align: center;
+    background-color: gray;
+    padding: 5px;
+    border: none;
+    color: white;
+} */
+header{
+    height: 60px;
+    width: 100vw;
+}
+/* .outer { 
+     padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+canvas {
+    position: absolute;
+}
+
+/* .outer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+nav {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: #343a40;
+}
+
+nav a {
+    align-items: center;
+    display: flex;
+    margin: 0 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+nav a img {
+    padding: 0 10px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 5px;
+    text-decoration: none;
+    
+}
+
+
